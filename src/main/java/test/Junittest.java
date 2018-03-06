@@ -15,6 +15,6 @@ public class Junittest {
     @Test
     public void mockstest() {
 
-        assertEquals(1, 1);
+        assertEquals(1, 2);
     }
 }
