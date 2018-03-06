@@ -4,6 +4,8 @@ import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 /**
  * Unit test for simple App.
  */
@@ -38,6 +40,13 @@ public class AppTest
 
     public void testApp2()
     {
-        assertTrue( true );
+
+        assertEquals(1, 2);
+    }
+
+    public void testApp3()
+    {
+
+        assertEquals(1, 2);
     }
 }
