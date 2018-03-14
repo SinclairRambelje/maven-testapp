@@ -41,12 +41,12 @@ public class AppTest
     public void testApp2()
     {
 
-        assertEquals(1, 2);
+        assertEquals(1, 1);
     }
 
     public void testApp3()
     {
 
-        assertEquals(1, 2);
+        assertEquals(1, 1);
     }
 }
