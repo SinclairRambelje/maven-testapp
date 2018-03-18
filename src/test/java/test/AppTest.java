@@ -38,11 +38,7 @@ public class AppTest
     assertTrue( true );
 }
 
-    public void testApp2()
-    {
-
-        assertEquals(1, 1);
-    }
+   
 
     public void testApp3()
     {
